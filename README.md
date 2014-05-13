@@ -1,6 +1,6 @@
 # KiriyaHoney
 
-TODO: Write a gem description
+odayaka? => odayakajanaiwane
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
+	putsh nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
 
 ## Contributing
 
