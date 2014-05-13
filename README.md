@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
-	putsh nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
+	puts nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
 
 ## Contributing
 
