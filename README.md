@@ -21,6 +21,18 @@ Or install it yourself as:
 	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
 	puts nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
 
+	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
+    puts "".odayaka? #=> この穏やかさ 穏やかじゃないわね。
+
+    puts 1.odayaka? #=> 穏やかじゃないわね
+    puts 0.odayaka? #=> この穏やかさ 穏やかじゃないわね。
+
+    puts ["Ichigo","Aoi","Ran"].odayaka? #=> 穏やかじゃないわね
+    puts [].odayaka? #=> この穏やかさ 穏やかじゃないわね。
+
+    puts {Ichigo: "Osyamoji",Aoi: "Ichigo",Ran: "Wakame"}.odayaka? #=> 穏やかじゃないわね
+    puts {}.odayaka? #=> この穏やかさ 穏やかじゃないわね。
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/kiriya_honey/fork )

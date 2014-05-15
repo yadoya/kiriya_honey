@@ -39,13 +39,15 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="kiriya_honey (v0.0.1, /Users/mybys/RubymineProjects/kiriya_honey) [path][gem]">
+      <library name="kiriya_honey (v0.0.3.1, /Users/mybys/RubymineProjects/kiriya_honey) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/pkg" />
           <root url="file://$MODULE_DIR$/.idea" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/lib" />
+          <root url="file://$MODULE_DIR$/pkg" />
           <root url="file://$MODULE_DIR$/.idea" />
         </SOURCES>
       </library>
