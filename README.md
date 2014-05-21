@@ -32,7 +32,7 @@ Or install it yourself as:
 	again_off_time = '#75'
 	puts again_off_time.odayaka? #=> 穏やかじゃないわね
 	again_off_time.odayakajanai!
-	again_off_time.odayaka? #=> この穏やかさ…やっぱり穏やかじゃない。
+	puts again_off_time.odayaka? #=> この穏やかさ…やっぱり穏やかじゃない。
 
 ## Contributing
 

@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce32ee21-6501-4669-ba13-0b6b52a75e40" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/kiriya_honey.iml" afterPath="$PROJECT_DIR$/.idea/kiriya_honey.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/kiriya_honey/extention/object.rb" afterPath="$PROJECT_DIR$/lib/kiriya_honey/extention/object.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/extention/object_spec.rb" afterPath="$PROJECT_DIR$/spec/extention/object_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/kiriya_honey/version.rb" afterPath="$PROJECT_DIR$/lib/kiriya_honey/version.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kiriya_honey.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,8 +74,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68365556" vertical-offset="76" max-vertical-offset="735">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.7627416" vertical-offset="76" max-vertical-offset="735">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -630,8 +625,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68365556" vertical-offset="76" max-vertical-offset="735">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.7627416" vertical-offset="76" max-vertical-offset="735">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding />
         </state>
       </provider>
