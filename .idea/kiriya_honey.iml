@@ -39,7 +39,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="kiriya_honey (v0.0.3.1, /Users/mybys/RubymineProjects/kiriya_honey) [path][gem]">
+      <library name="kiriya_honey (v0.0.4, /Users/mybys/RubymineProjects/kiriya_honey) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib" />
           <root url="file://$MODULE_DIR$/pkg" />
@@ -53,7 +53,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.6.2, rbenv: 2.1.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.1, rbenv: 2.1.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.2, rbenv: 2.1.1) [gem]" level="application" />
   </component>
 </module>
 

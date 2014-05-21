@@ -19,9 +19,6 @@ Or install it yourself as:
 ## Usage
 
 	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
-	puts nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
-
-	puts "Ichigo".odayaka? #=> 穏やかじゃないわね
     puts "".odayaka? #=> この穏やかさ 穏やかじゃないわね。
 
     puts 1.odayaka? #=> 穏やかじゃないわね
@@ -30,8 +27,12 @@ Or install it yourself as:
     puts ["Ichigo","Aoi","Ran"].odayaka? #=> 穏やかじゃないわね
     puts [].odayaka? #=> この穏やかさ 穏やかじゃないわね。
 
-    puts {Ichigo: "Osyamoji",Aoi: "Ichigo",Ran: "Wakame"}.odayaka? #=> 穏やかじゃないわね
-    puts {}.odayaka? #=> この穏やかさ 穏やかじゃないわね。
+	puts nil.odayaka? #=> この穏やかさ 穏やかじゃないわね。
+	
+	again_off_time = '#75'
+	puts again_off_time.odayaka? #=> 穏やかじゃないわね
+	again_off_time.odayakajanai!
+	again_off_time.odayaka? #=> この穏やかさ…やっぱり穏やかじゃない。
 
 ## Contributing
 
